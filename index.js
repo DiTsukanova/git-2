@@ -1,1 +1,2 @@
-console.log('indexjs')
+console.log('indexjs');
+console.log('Привет1');
